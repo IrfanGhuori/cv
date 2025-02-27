@@ -918,6 +918,8 @@ a, a:hover { text-decoration: none; }
       }
       /* END OWL-Carousel Navigation*/
       
+
+      
       @media only screen and (max-width:768px) {
         #full-width{
           padding: 0;
